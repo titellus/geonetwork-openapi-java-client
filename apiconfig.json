@@ -1,0 +1,8 @@
+{
+"groupId":"org.geonetwork-opensource",
+"artifactId":"OpenApiClient",
+"artifactVersion":"0.0.1",
+"library":"okhttp-gson",
+"apiPackage":"org.fao.geonet.openapi",
+"modelPackage":"org.fao.geonet.openapi.model"
+}
